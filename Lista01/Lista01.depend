@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1680465881 source:c:\users\pedro\documents\aed02\lista01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+	"questao04.h"
+	"questao05.h"
+	"questao06.h"
+	"questao07.h"
+	"questao08.h"
+	"questao09.h"
+	"questao10.h"
+	"questao11.h"
+	"questao12.h"
+	"questao13.h"
+	"questao14.h"
+	"questao15.h"
+	"questao16.h"
+	"questao17.h"
+	"questao18.h"
+	"questao19.h"
+	"questao20.h"
+	"questao21.h"
+
+1680360518 c:\users\pedro\documents\aed02\lista01\questao01.h
+
+1680363001 source:c:\users\pedro\documents\aed02\lista01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1680360879 c:\users\pedro\documents\aed02\lista01\questao02.h
+
+1680362503 source:c:\users\pedro\documents\aed02\lista01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1680366030 source:c:\users\pedro\documents\aed02\lista01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1680366141 c:\users\pedro\documents\aed02\lista01\questao03.h
+
+1680366986 source:c:\users\pedro\documents\aed02\lista01\questao04.c
+	<stdio.h>
+	<stdlib.h>
+	"questao04.h"
+
+1680366156 c:\users\pedro\documents\aed02\lista01\questao04.h
+
+1680368728 source:c:\users\pedro\documents\aed02\lista01\questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"questao06.h"
+
+1680368054 c:\users\pedro\documents\aed02\lista01\questao06.h
+
+1680368909 c:\users\pedro\documents\aed02\lista01\questao05.h
+
+1680369831 source:c:\users\pedro\documents\aed02\lista01\questao05.c
+	<stdio.h>
+	<stdlib.h>
+	"questao05.h"
+
+1680401310 source:c:\users\pedro\documents\aed02\lista01\questao07.c
+	<stdio.h>
+	<stdlib.h>
+	"questao07.h"
+
+1680400410 c:\users\pedro\documents\aed02\lista01\questao07.h
+
+1680402191 source:c:\users\pedro\documents\aed02\lista01\questao08.c
+	<stdio.h>
+	<stdlib.h>
+	"questao08.h"
+
+1680401528 c:\users\pedro\documents\aed02\lista01\questao08.h
+
+1680402348 c:\users\pedro\documents\aed02\lista01\questao09.h
+
+1680402704 source:c:\users\pedro\documents\aed02\lista01\questao09.c
+	<stdio.h>
+	<stdlib.h>
+	"questao09.h"
+
+1680402814 c:\users\pedro\documents\aed02\lista01\questao10.h
+
+1680403721 source:c:\users\pedro\documents\aed02\lista01\questao10.c
+	<stdio.h>
+	<stdlib.h>
+	"questao10.h"
+
+1680403885 c:\users\pedro\documents\aed02\lista01\questao11.h
+
+1680404337 source:c:\users\pedro\documents\aed02\lista01\questao11.c
+	<stdio.h>
+	<stdlib.h>
+	"questao11.h"
+
+1680404831 source:c:\users\pedro\documents\aed02\lista01\questao12.c
+	<stdio.h>
+	<stdlib.h>
+	"questao12.h"
+
+1680404547 c:\users\pedro\documents\aed02\lista01\questao12.h
+
+1680447826 c:\users\pedro\documents\aed02\lista01\questao13.h
+
+1680448835 source:c:\users\pedro\documents\aed02\lista01\questao13.c
+	<stdio.h>
+	<stdlib.h>
+	"questao13.h"
+
+1680448947 c:\users\pedro\documents\aed02\lista01\questao14.h
+
+1680449272 source:c:\users\pedro\documents\aed02\lista01\questao14.c
+	<stdio.h>
+	<stdlib.h>
+	"questao14.h"
+
+1680449899 source:c:\users\pedro\documents\aed02\lista01\questao15.c
+	<stdio.h>
+	<stdlib.h>
+	"questao15.h"
+
+1680449409 c:\users\pedro\documents\aed02\lista01\questao15.h
+
+1680451493 source:c:\users\pedro\documents\aed02\lista01\questao16.c
+	<stdio.h>
+	<stdlib.h>
+	"questao16.h"
+
+1680450369 c:\users\pedro\documents\aed02\lista01\questao16.h
+
+1680451788 c:\users\pedro\documents\aed02\lista01\questao17.h
+
+1680452891 source:c:\users\pedro\documents\aed02\lista01\questao17.c
+	<stdio.h>
+	<stdlib.h>
+	"questao17.h"
+
+1680453101 c:\users\pedro\documents\aed02\lista01\questao18.h
+
+1680455042 source:c:\users\pedro\documents\aed02\lista01\questao18.c
+	<stdio.h>
+	<stdlib.h>
+	"questao18.h"
+
+1680462860 c:\users\pedro\documents\aed02\lista01\questao19.h
+
+1680463539 source:c:\users\pedro\documents\aed02\lista01\questao19.c
+	<stdio.h>
+	<stdlib.h>
+	"questao19.h"
+
+1680464099 c:\users\pedro\documents\aed02\lista01\questao20.h
+
+1680465046 source:c:\users\pedro\documents\aed02\lista01\questao20.c
+	<stdio.h>
+	<stdlib.h>
+	"questao20.h"
+
+1680465918 source:c:\users\pedro\documents\aed02\lista01\questao21.c
+	<stdio.h>
+	<stdlib.h>
+	"questao21.h"
+
+1680465363 c:\users\pedro\documents\aed02\lista01\questao21.h
+
