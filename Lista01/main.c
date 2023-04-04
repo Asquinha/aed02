@@ -22,6 +22,10 @@
 #include "questao20.h"
 #include "questao21.h"
 #include "questao22.h"
+#include "questao23.h"
+#include "questao24.h"
+
+//Nome: Pedro Henrique Lopes Vasconcelos
 
 int main()
 {
@@ -76,9 +80,9 @@ int main()
         break;
         case 22: questao22();
         break;
-        case 23:
+        case 23: questao23();
         break;
-        case 24:
+        case 24: questao24();
         break;
         default:
         break;

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1680465881 source:c:\users\pedro\documents\aed02\lista01\main.c
+1680571319 source:c:\users\pedro\documents\aed02\lista01\main.c
 	<stdio.h>
 	<stdlib.h>
 	"questao01.h"
@@ -23,6 +23,9 @@
 	"questao19.h"
 	"questao20.h"
 	"questao21.h"
+	"questao22.h"
+	"questao23.h"
+	"questao24.h"
 
 1680360518 c:\users\pedro\documents\aed02\lista01\questao01.h
 
@@ -33,7 +36,7 @@
 
 1680360879 c:\users\pedro\documents\aed02\lista01\questao02.h
 
-1680362503 source:c:\users\pedro\documents\aed02\lista01\questao01.c
+1680570675 source:c:\users\pedro\documents\aed02\lista01\questao01.c
 	<stdio.h>
 	<stdlib.h>
 	"questao01.h"
@@ -170,4 +173,25 @@
 	"questao21.h"
 
 1680465363 c:\users\pedro\documents\aed02\lista01\questao21.h
+
+1680471160 c:\users\pedro\documents\aed02\lista01\questao22.h
+
+1680485885 source:c:\users\pedro\documents\aed02\lista01\questao22.c
+	<stdio.h>
+	<stdlib.h>
+	"questao22.h"
+
+1680568445 c:\users\pedro\documents\aed02\lista01\questao23.h
+
+1680571269 source:c:\users\pedro\documents\aed02\lista01\questao23.c
+	<stdio.h>
+	<stdlib.h>
+	"questao23.h"
+
+1680571296 c:\users\pedro\documents\aed02\lista01\questao24.h
+
+1680571794 source:c:\users\pedro\documents\aed02\lista01\questao24.c
+	<stdio.h>
+	<stdlib.h>
+	"questao24.h"
 
