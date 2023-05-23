@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1684800625 source:c:\users\pedro\documents\aed02\lista02\insercao.c
+	<stdio.h>
+	<stdlib.h>
+	"insercao.h"
+
+1684800772 source:c:\users\pedro\documents\aed02\lista02\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacao.h"
+
+1684801704 source:c:\users\pedro\documents\aed02\lista02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bolha.h"
+	"insercao.h"
+	"ordenacao.h"
+	"merge.h"
+	"quick.h"
+
+1684799332 c:\users\pedro\documents\aed02\lista02\bolha.h
+
+1684800359 c:\users\pedro\documents\aed02\lista02\insercao.h
+
+1684800758 c:\users\pedro\documents\aed02\lista02\ordenacao.h
+
+1684800300 source:c:\users\pedro\documents\aed02\lista02\bolha.c
+	<stdio.h>
+	<stdlib.h>
+	"bolha.h"
+
+1684801479 source:c:\users\pedro\documents\aed02\lista02\quick.c
+	<stdio.h>
+	<stdlib.h>
+	"quick.h"
+
+1684801418 c:\users\pedro\documents\aed02\lista02\quick.h
+
+1684801747 c:\users\pedro\documents\aed02\lista02\merge.h
+
+1684801580 source:c:\users\pedro\documents\aed02\lista02\merge.c
+	<stdio.h>
+	<stdlib.h>
+	"merge.h"
+
